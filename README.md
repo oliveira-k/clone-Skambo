@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O Cloneb Skambo consiste na clonagem da página de login.
+O Clone Skambo consiste na clonagem da página de login.
 
 ## Objetivo
 
