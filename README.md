@@ -24,8 +24,8 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Preview
 
-![image](![image](https://github.com/oliveira-k/clone-Skambo/assets/140715453/b9bd1334-5064-4b88-ae51-5d7d6a3981eb)
-)
+![image](https://github.com/oliveira-k/clone-Skambo/assets/140715453/fb23f060-9851-4167-be4e-cd84bedd1f90)
+
 
 
 
